@@ -22,4 +22,4 @@ Based on our evaluation metrics, we will select the best performing model and fi
 
 # Conclusion
 In conclusion, this project aims to build a machine learning model that can accurately predict whether a customer will purchase an additional insurance policy based on their demographic, vehicle, and policy information. By identifying potential cross-selling opportunities, insurance companies can tailor their marketing and sales strategies to target customers who are more likely to purchase additional insurance policies, which can result in increased revenue and customer satisfaction.
-https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction?datasetId=869050&sortBy=voteCount
+
